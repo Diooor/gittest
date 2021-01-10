@@ -2,6 +2,7 @@ public class HelloWorld {
 22222
 44444
 pokemon
+door
 
     
     public static void main(String[] args) {
