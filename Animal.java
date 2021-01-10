@@ -13,6 +13,7 @@ public class Animal {
     public Animal (int age, float weight) {
     	this.age = age;
     	this.weight = weight;
+        this.pig = pig;
     }
     
 //    public void speak() {
