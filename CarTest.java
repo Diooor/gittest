@@ -11,8 +11,6 @@ public class CarTest {
 	private int expectedWheels;
 	private Engine engine;
 	private Car myCar;
-        private egg;        
-     
 
 
 	@BeforeClass
